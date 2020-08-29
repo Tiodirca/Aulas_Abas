@@ -1,0 +1,2 @@
+rootProject.name='Aulas_aba'
+include ':app'
